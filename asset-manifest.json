@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ALT-Project/static/css/main.8617eaaf.css",
+    "main.js": "/ALT-Project/static/js/main.52a1496f.js",
+    "static/js/787.348b95af.chunk.js": "/ALT-Project/static/js/787.348b95af.chunk.js",
+    "static/media/october-special-sep2023_desktop.png": "/ALT-Project/static/media/october-special-sep2023_desktop.5ad5fda7ad8e8790f9ba.png",
+    "static/media/home-page-alt-building.jpg": "/ALT-Project/static/media/home-page-alt-building.c4d5fc44e7809535e0b1.jpg",
+    "static/media/altlogo-22.png": "/ALT-Project/static/media/altlogo-22.b96b38f668caff417027.png",
+    "static/media/at-footer-bg23.jpg": "/ALT-Project/static/media/at-footer-bg23.2b6164b40bc33b356c70.jpg",
+    "static/media/feature-pool-abp_saint-remy.png": "/ALT-Project/static/media/feature-pool-abp_saint-remy.8ef0e449edb0aec3232d.png",
+    "static/media/home-page-planner-bigger-bg-23.jpg": "/ALT-Project/static/media/home-page-planner-bigger-bg-23.6435f0455b62a7528965.jpg",
+    "static/media/home-page-graphene-23.jpg": "/ALT-Project/static/media/home-page-graphene-23.221a1f81da0fa2525749.jpg",
+    "static/media/award.jpg": "/ALT-Project/static/media/award.158916acf07b9699f3f1.jpg",
+    "index.html": "/ALT-Project/index.html",
+    "main.8617eaaf.css.map": "/ALT-Project/static/css/main.8617eaaf.css.map",
+    "main.52a1496f.js.map": "/ALT-Project/static/js/main.52a1496f.js.map",
+    "787.348b95af.chunk.js.map": "/ALT-Project/static/js/787.348b95af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8617eaaf.css",
+    "static/js/main.52a1496f.js"
+  ]
+}
